@@ -1,0 +1,15 @@
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\c-sharp-methods\bin\Debug\net9.0\c-sharp-methods.exe
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\c-sharp-methods\bin\Debug\net9.0\c-sharp-methods.deps.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\c-sharp-methods\bin\Debug\net9.0\c-sharp-methods.runtimeconfig.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\c-sharp-methods\bin\Debug\net9.0\c-sharp-methods.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\c-sharp-methods\bin\Debug\net9.0\c-sharp-methods.pdb
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\c-sharp-methods\obj\Debug\net9.0\c-sharp-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\c-sharp-methods\obj\Debug\net9.0\c-sharp-methods.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\c-sharp-methods\obj\Debug\net9.0\c-sharp-methods.AssemblyInfo.cs
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\c-sharp-methods\obj\Debug\net9.0\c-sharp-methods.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\c-sharp-methods\obj\Debug\net9.0\c-sharp-methods.sourcelink.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\c-sharp-methods\obj\Debug\net9.0\c-sharp-methods.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\c-sharp-methods\obj\Debug\net9.0\refint\c-sharp-methods.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\c-sharp-methods\obj\Debug\net9.0\c-sharp-methods.pdb
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\c-sharp-methods\obj\Debug\net9.0\c-sharp-methods.genruntimeconfig.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\c-sharp-methods\obj\Debug\net9.0\ref\c-sharp-methods.dll
