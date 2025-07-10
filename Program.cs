@@ -13,12 +13,22 @@
 // }
 
 
-//method exexcution
-Console.WriteLine("Before calling a method");
-SayHello();
-Console.WriteLine("After calling a method");
+// //method exexcution
+// Console.WriteLine("Before calling a method");
+// SayHello();
+// Console.WriteLine("After calling a method");
 
-void SayHello()
+// void SayHello()
+// {
+//     Console.WriteLine("Hello World!");
+// }
+
+//method to display random numbers
+void DisplayRandomNumbers()
 {
-    Console.WriteLine("Hello World!");
+    Random random = new Random();
+    for (int i = 0; i <= 5; i++)
+    {
+        Console.Write($"{random.Next(1, 100)} ");
+    }
 }
